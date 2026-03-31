@@ -1,1 +1,37 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="D1ZjOo+3wK:0*nPylcvQ" x="20" y="20"></block><block type="device_forever" id=")DTNI[ZS[q+}]]FD4I|:" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="A$L5kO81d-d^E`HVr}U-" x="509" y="-578"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_repeat_ext" id="J.G5jYK0e=M{GTa{cubc"><value name="TIMES"><shadow type="math_whole_number" id="z,=@X*fbRZiyF@6(f2f|"><field name="NUM">9</field></shadow></value><statement name="DO"><block type="device_show_leds" id="OGR4[T*Nw@TpY.]wFY-`"><field name="LEDS">`
+        . . # . . 
+        . # # . # 
+        # . # # . 
+        . # # . # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=")U:Bwa?9wjsRvajhxP:p"><field name="LEDS">`
+        . # . . . 
+        # # . # . 
+        . # # . . 
+        # # . # . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="C.^;X{v;CANc_pD5]y_)"><field name="LEDS">`
+        # . . . . 
+        # . # . . 
+        # # . . . 
+        # . # . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="3qUv)a8}t+_`)P,*Teab"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        # . . . . 
+        . # . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="}r-{O%wE,A4@JsYGYFHf"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="A{9I!jHR8W,~Dt%:W.sk" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="j;L(@]uLHNmS]MeP@E,!"><value name="TIMES"><shadow type="math_whole_number" id="A$0q~Ktc.D6?{-A)H7zU"><field name="NUM">9</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="JqLhaHamN~*??T.==Ko+"><field name="i">IconNames.Duck</field><next><block type="device_show_leds" id="zMXk.Mw2;A7uS^t89daj"><field name="LEDS">`
+        . . . . . 
+        . # # . . 
+        # # # . . 
+        . # # # # 
+        . # # # .
+        `</field></block></next></block></statement></block></statement></block></xml>
